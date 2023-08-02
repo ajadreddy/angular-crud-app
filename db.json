@@ -66,18 +66,6 @@
       "id": 4
     },
     {
-      "firstName": "Munmro",
-      "lastName": "Wrangle",
-      "email": "mwrangle4@network.org",
-      "dob": "2002-06-04T05:11:37Z",
-      "gender": "Male",
-      "education": "Post Graduate",
-      "company": "Jaxworks",
-      "experience": 63,
-      "package": 9,
-      "id": 5
-    },
-    {
       "id": 6,
       "firstName": "Hunter",
       "lastName": "Lammenga",
@@ -1131,18 +1119,6 @@
       "education": "Graduate",
       "company": "Yodo",
       "experience": 44,
-      "package": 19
-    },
-    {
-      "id": 94,
-      "firstName": "Timmy",
-      "lastName": "Josselsohn",
-      "email": "tjosselsohn2l@ow.ly",
-      "dob": "1986-02-23T20:31:07Z",
-      "gender": "Female",
-      "education": "Diploma",
-      "company": "Zava",
-      "experience": 100,
       "package": 19
     },
     {
@@ -2416,6 +2392,18 @@
       "company": "Photobug",
       "experience": 2,
       "package": 16
+    },
+    {
+      "firstName": "Ajad",
+      "lastName": "Reddy",
+      "email": "reddy.ajad@gmail.com",
+      "dob": "2001-06-04T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "CGI",
+      "experience": 1,
+      "package": 8,
+      "id": 201
     }
   ]
 }
